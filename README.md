@@ -61,54 +61,54 @@ MERN Stack is a collection of powerful technologies and robust, used to develop 
 Each of these four technologies plays an important role in providing an end-to-end framework for the developers. Even these four technologies play an important role in the development process of web applications.
 
 # 2.5 Mongo DB
-o	It is the most popular NoSQL (NoSQL or Non-Structured Query Language) database, an open-source document-oriented database.
-o	The term 'NoSQL' typically means a non-relational database that does not require a fixed schema or proper relational tables to store the necessary data in it. MongoDB stores the data in a different format other than the relational tables, consisting of rows and columns.
-o	The storage format in which the data is stored is known as BSON, which stands for Binary JavaScript Object Notation; MongoDB uses BSON when storing documents in collections.
-o	It allows a highly scalable and flexible document structure.
-o	It is very faster as compared to RDBMS due to its efficient storage and indexing techniques.
-o	MongoDB uses JavaScript for coding as a language which is one of the great advantages.
-o	It is Schema less as any data stored which is stored in a separate document.
-o	MongoDB is a NoSQL database that scales by adding more and more servers and increases productivity with its flexible document model.
+-	It is the most popular NoSQL (NoSQL or Non-Structured Query Language) database, an open-source document-oriented database.
+-	The term 'NoSQL' typically means a non-relational database that does not require a fixed schema or proper relational tables to store the necessary data in it. MongoDB stores the data in a different format other than the relational tables, consisting of rows and columns.
+-	The storage format in which the data is stored is known as BSON, which stands for Binary JavaScript Object Notation; MongoDB uses BSON when storing documents in collections.
+-	It allows a highly scalable and flexible document structure.
+-	It is very faster as compared to RDBMS due to its efficient storage and indexing techniques.
+-	MongoDB uses JavaScript for coding as a language which is one of the great advantages.
+-	It is Schema less as any data stored which is stored in a separate document.
+-	MongoDB is a NoSQL database that scales by adding more and more servers and increases productivity with its flexible document model.
 
 
 # 2.6 Express Js
-o	Express is a JavaScript server-side framework that runs within js.
-o	It is one of the best backend development JavaScript Frameworks.
-o	It provides the developer with a platform to create and maintain robust servers.
-o	Express is used for building and designing web and mobile applications easily and quickly.
-o	Express is very easy to connect with Databases like MongoDB.
-o	Based on HTTP methods and URLs, Express allows you to define the routes of your application.
-o	With its built-in router, it promotes code reusability.
-o	If we want to understand the architecture behind web servers and their working along with the organization, then learning Express is the best option.
+-	Express is a JavaScript server-side framework that runs within js.
+-	It is one of the best backend development JavaScript Frameworks.
+-	It provides the developer with a platform to create and maintain robust servers.
+-	Express is used for building and designing web and mobile applications easily and quickly.
+-	Express is very easy to connect with Databases like MongoDB.
+-	Based on HTTP methods and URLs, Express allows you to define the routes of your application.
+-	With its built-in router, it promotes code reusability.
+-	If we want to understand the architecture behind web servers and their working along with the organization, then learning Express is the best option.
 
 # 2.7 React Js
-o	React is one of the most popular open-source front-end JavaScript libraries used for building Web applications.
-o	Before using react, it has some prerequisites that one should follow, that you must download Node packages in your system with their latest versions. Also, you must have an understanding of HTML, CSS and JavaScript.
-o	It is used to build user interfaces, especially for a single page web application.
-o	It allows us to create reusable UI (User Interface) components.
-o	It allows developers to create large web applications that can easily change the data of the page even without reloading the page.
-o	The main objective of reacting is that it only works on user interfaces in the application, whether mobile or web.
-o	It is very fast, simple and scalable.
-o	React is also used with a combination of other JavaScript libraries or frameworks.
-o	There are a lot of open-source platforms that are also used to make the front-end web and mobile applications easier, like Angular js in MVC. Now, most developers are using the MERN stack in which react is used; the main reason is that it is very fast and has more advantages over other front-end frameworks.
+-	React is one of the most popular open-source front-end JavaScript libraries used for building Web applications.
+-	Before using react, it has some prerequisites that one should follow, that you must download Node packages in your system with their latest versions. Also, you must have an understanding of HTML, CSS and JavaScript.
+-	It is used to build user interfaces, especially for a single page web application.
+-	It allows us to create reusable UI (User Interface) components.
+-	It allows developers to create large web applications that can easily change the data of the page even without reloading the page.
+-	The main objective of reacting is that it only works on user interfaces in the application, whether mobile or web.
+-	It is very fast, simple and scalable.
+-	React is also used with a combination of other JavaScript libraries or frameworks.
+-	There are a lot of open-source platforms that are also used to make the front-end web and mobile applications easier, like Angular js in MVC. Now, most developers are using the MERN stack in which react is used; the main reason is that it is very fast and has more advantages over other front-end frameworks.
 
 
 
 
 
 # 2.8 Node js
-o	js is an open-source server environment, and it is a cross-platform runtime environment for executing JavaScript code outside a browser.
+-	js is an open-source server environment, and it is a cross-platform runtime environment for executing JavaScript code outside a browser.
 
-o	js is not a programming language, and even it is not a framework.
-o	It is often used for building and developing numerous backend services like net applications, mobile applications.
-o	Massive corporations principally utilize it in production like Uber, PayPal, Netflix,
-o	It may be a free ASCII text file platform and may be utilized by anybody.
-o	It is incredibly simple to urge started with it and may even be used for agile development and prototyping.
-o	It provides extremely ascendable and really quick services to the users.
-o	It is incredibly consistent and may be used as an ASCII text file cleaner.
-o	It continuously uses JavaScript; thus, it's ultimately helpful for a computer user to quickly create any net service or any net or mobile application.
-o	It provides a massive system for any ASCII text file library.
-o	It contains a non-blocking or, can say, Asynchronous nature.
+-	js is not a programming language, and even it is not a framework.
+-	It is often used for building and developing numerous backend services like net applications, mobile applications.
+-	Massive corporations principally utilize it in production like Uber, PayPal, Netflix,
+-	It may be a free ASCII text file platform and may be utilized by anybody.
+-	It is incredibly simple to urge started with it and may even be used for agile development and prototyping.
+-	It provides extremely ascendable and really quick services to the users.
+-	It is incredibly consistent and may be used as an ASCII text file cleaner.
+-	It continuously uses JavaScript; thus, it's ultimately helpful for a computer user to quickly create any net service or any net or mobile application.
+-	It provides a massive system for any ASCII text file library.
+-	It contains a non-blocking or, can say, Asynchronous nature.
 
 
 # Advantages of MERN Stack
@@ -122,13 +122,15 @@ o	It contains a non-blocking or, can say, Asynchronous nature.
 
 
 
-# 2.9 Redux
-Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. 
-Redux is an open-source JavaScript library used to manage application state. React uses Redux for building the user interface. 
-Redux is the official React binding for Redux. It allows React components to read data from a Redux Store, and dispatch Actions to the Store to update data. Redux helps apps to scale by providing a sensible way to manage state through a unidirectional data flow model. React Redux is conceptually simple. It subscribes to the Redux store, checks to see if the data which your component wants have changed, and re-renders your component.
-o	React Redux is the official UI bindings for react Application. It is kept up-to-date with any API changes to ensure that your React components behave as expected.
-o	It encourages good 'React' architecture.
-o	It implements many performance optimizations internally, which allows to components re-render only when it actually needs.
+# 2.9 Redux 
+- Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test.  
+- Redux is an open-source JavaScript library used to manage application state. React uses Redux for building the user interface.  
+- Redux is the official React binding for Redux. It allows React components to read data from a Redux Store, and dispatch Actions to the Store to update data. Redux helps apps to scale by providing a sensible way to manage state through a unidirectional data flow model. React Redux is conceptually simple. It subscribes to the Redux store, checks to see if the data which your component wants have changed, and re-renders your component.
+ 
+ - 	React Redux is the official UI bindings for react Application. It is kept up-to-date with any API changes to ensure that your React components behave as expected.
+ 
+ - 	It encourages good 'React' architecture.
+-	It implements many performance optimizations internally, which allows to components re-render only when it actually needs.
 
 # 4.2. Future Scope
 The following section discusses the work that will be implemented with future releases of the software. 
